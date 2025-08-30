@@ -29,6 +29,9 @@
     "xss-clean": "^0.1.4"
   },
   "scripts": {
-    "start": "nodemon app.js"
+      "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.20.8"
   }
 }
